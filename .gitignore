@@ -13,10 +13,7 @@ __pycache__/
 .env
 config.json
 credentials.txt
-bot.js
 config.py
 credentials.json
-package.json
-package-lock.json
-start_local.bat
-
+.wwebjs_auth/
+.wwebjs_cache/

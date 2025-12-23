@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn
+torch
+sentence-transformers
+google-generativeai
+gspread
+oauth2client
+numpy
+scikit-learn
+pydantic
+requests
+gtts
+openai
