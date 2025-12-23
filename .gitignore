@@ -1,0 +1,36 @@
+# --- Arquivos de Sistema Operacional (Lixo) ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Editor de Texto (VS Code, etc) ---
+.vscode/
+.idea/
+
+# --- Dependências (Bibliotecas pesadas não sobem!) ---
+# Se for Node.js
+node_modules/
+# Se for Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# --- Logs e Dados ---
+*.log
+*.sqlite3
+
+# --- SEGURANÇA (O MAIS IMPORTANTE) ---
+# Arquivos que guardam senhas e tokens nunca sobem!
+.env
+config.json
+credentials.txt
+
+# --- Arquivos Princiapais para não subir ---
+bot.js
+config.py
+credentials.json
+package.json
+package-lock.json
+start_local.bat
+
